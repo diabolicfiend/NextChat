@@ -723,7 +723,7 @@ const ai302Models = [
   "chatgpt-4o-latest",
   "llama3.3-70b",
   "deepseek-reasoner",
-  "gemini-2.0-flash",
+  "gemini-3.6-flash",
   "claude-3-7-sonnet-20250219",
   "claude-3-7-sonnet-latest",
   "grok-3-beta",
